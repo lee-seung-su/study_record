@@ -1,0 +1,5 @@
+build.gradle에서
+id = kotlin-plugin-extensions추가하고 sync하면 xml에서 import가 자동으로 되서
+id.~ 이렇게 접근가능
+
+안해주면 findViewById(R.id.~)이렇게 해줘야한다.
